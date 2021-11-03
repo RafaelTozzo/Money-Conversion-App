@@ -1,8 +1,7 @@
 # Money Conversion App
-<br>
 The objective is to create a money conversion app using Flutter to improve to skills.
 <br>
-<br>
+
 ## Result:
 <br>
 <div align="center">
