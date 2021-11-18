@@ -1,5 +1,5 @@
 # Money Conversion App
-The objective is to create a money conversion app using Dart/Flutter, MVC pattern, to improve skills.
+The objective is to create a money conversion app using Dart/Flutter, MVC pattern, to improve skills
 <br>
 ## Result:
 <br>
